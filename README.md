@@ -15,5 +15,5 @@
 Linguagens & Tecnologias: `JavaScript (Vue.js)`, `PHP (Laravel)`
 
 <br/>
-
+---
 Encontre-me no [LinkedIn](https://www.linkedin.com/in/alvaro-ragazzi-978865203/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
