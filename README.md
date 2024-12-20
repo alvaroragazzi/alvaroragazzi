@@ -4,7 +4,7 @@
 <br/>
 • Experiência com servidores linux, servidores HTTP (Nginx, Apache), Docker
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroragazzi&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=aragazzi&layout=compact&custom_title=O%20que%20eu%20estou%20programando&theme=dark)
 
 ### Experiência de trabalho
 
