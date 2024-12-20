@@ -1,7 +1,6 @@
 ### Olá, meu nome é Alvaro
 
 - Desenvolvedor Web
-<br/>
 - Experiência com servidores linux, servidores HTTP (Nginx, Apache), Docker
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=aragazzi&layout=compact&custom_title=O%20que%20eu%20estou%20fazendo&theme=dark)
