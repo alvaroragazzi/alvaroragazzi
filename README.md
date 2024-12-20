@@ -12,7 +12,7 @@
 
 **Desenvolvedor Web** \
 [**Hospital Beneficente Unimar**](https://abhu.com.br) • Integral \
-Linguagens & Tecnologias: `JavaScript`, `PHP`
+Linguagens & Tecnologias: `JavaScript (Vue.js)`, `PHP (Laravel)`
 
 <br/>
 
