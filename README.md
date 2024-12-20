@@ -16,4 +16,4 @@ Linguagens & Tecnologias: `JavaScript`, `PHP`
 
 <br/>
 
-Encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Encontre-me no [LinkedIn](https://www.linkedin.com/in/alvaro-ragazzi-978865203/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
